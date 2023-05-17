@@ -1,0 +1,55 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+body{
+	
+}
+.container{
+	margin: 20px;
+	display: inline-block;
+}
+.type{
+	margin: 20px;
+	display: inline-block;
+}
+h3{
+	text-align: center;
+}
+
+#museum{
+	width: 350px;
+	height: 350px;
+	margin-left: 50px;
+	float: left;
+}
+#lake{
+	width: 350px;
+	height: 350px;
+	margin-left: 50px;
+	float: left;
+}
+#waterfall{
+	width: 350px;
+	height: 350px;
+	margin-left: 50px;
+	float: left;
+}
+#dondien{
+	width: 350px;
+	height: 350px;
+	margin-left: 50px;
+	float: left;
+}
+#buondon{
+	width: 350px;
+	height: 350px;
+	margin-left: 50px;
+	float: left;
+}
+#langcaphe{
+	width: 350px;
+	height: 350px;
+	margin-left: 50px;
+	float: left;
+}

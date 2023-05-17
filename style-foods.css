@@ -1,0 +1,55 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+body{
+	
+}
+.container{
+	margin: 20px;
+	display: inline-block;
+}
+.type{
+	margin: 20px;
+	display: inline-block;
+}
+h3{
+	text-align: center;
+}
+
+#bundo{
+	width: 350px;
+	height: 350px;
+	margin-left: 50px;
+	float: left;
+}
+#ganuong{
+	width: 350px;
+	height: 350px;
+	margin-left: 50px;
+	float: left;
+}
+#sau{
+	width: 350px;
+	height: 350px;
+	margin-left: 50px;
+	float: left;
+}
+#caphe{
+	width: 350px;
+	height: 350px;
+	margin-left: 50px;
+	float: left;
+}
+#ruoucan{
+	width: 350px;
+	height: 350px;
+	margin-left: 50px;
+	float: left;
+}
+#matong{
+	width: 350px;
+	height: 350px;
+	margin-left: 50px;
+	float: left;
+}

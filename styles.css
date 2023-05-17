@@ -1,0 +1,40 @@
+*{
+	margin:0;
+	padding:0;
+}
+body{
+}
+header{
+	height: 70px;
+	padding:50px;
+	text-align:center;
+	color: white;
+	background-color: green;
+}
+
+#places{
+	float:left;
+	width: 450px;
+	height:250px;
+	background-image: url("images/background-places.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	padding:25px;
+	margin-left: 100px;
+	margin-top: 50px;
+}
+#foods{
+	float: right;
+	width: 450px;
+	height: 250px;
+	background-image: url("images/background-food.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	padding : 25px;
+	margin-right: 100px;
+	margin-top: 50px;
+}
+h2	{
+	text-align: center;
+	color: red;
+}
